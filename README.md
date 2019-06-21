@@ -13,6 +13,9 @@ Place one of the machines and shortly it will begin moving ore from behind the m
 I haven't refined this mod at all really, so be warned that the art is ugly, and the features are limited. For example, right now the machines are also fully functional Constant Combinators.
     
 # Changelog:
+* 0.0.9 -
+** Updated for 0.17.x
+** Fixed Flags not found error when launching with version 17 (Removed flags)
 * 0.0.8 -
 ** Updated for 0.16.x
 * 0.0.7 -
